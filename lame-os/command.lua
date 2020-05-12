@@ -1,0 +1,1 @@
+shell.run("/lame-os/main.lua")
